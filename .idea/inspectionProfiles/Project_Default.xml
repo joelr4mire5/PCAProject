@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.numerador" />
+          <option value="main.denominador" />
+          <option value="main.hora" />
+          <option value="Persona" />
+          <option value="Repuesto.nombre" />
+          <option value="Repuesto.codigo" />
+          <option value="Repuesto.precio" />
+          <option value="No_Original.aisFabricacion" />
+          <option value="No_Original.paisFabricacion" />
+          <option value="Nuevo.annoGarantia" />
+          <option value="Fecha.dia" />
+          <option value="Fecha.mes" />
+          <option value="Fecha.anno" />
+          <option value="Repuestos.Repuesto.nombre" />
+          <option value="Repuestos.Repuesto.codigo" />
+          <option value="Repuestos.Repuesto.precio" />
+          <option value="Repuestos.Repuesto.set_nombre" />
+          <option value="Repuestos.Repuesto.set_codigo" />
+          <option value="Repuestos.Repuesto.set_precio" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
